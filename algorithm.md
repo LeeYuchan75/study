@@ -364,6 +364,42 @@ Big-O 정의에 따르면, f1(x) = O(g1(x))는 |f1(x)| ≤ C1 |g1(x)| 를 만족
 
 이로써, f1(x) * f2(x) = O(g1(x) * g2(x))임을 보임
 
+<br/>
+
+## Factorial (1주차 내용과 달라서 확인 필요)
+
+```ruby
+def factorial(n):
+    if n == 1 || n== 0:
+        return 1
+
+    return n * factorial(n - 1)
+    
+    
+n = 3
+print("**팩토리얼")
+print(factorial(n))
+```
+
+시간 복잡도 : O(n)
+
+<br/>
+
+## 피보나치 
+
+```ruby
+def fibo(n):
+    if n==1 : return 1
+    if n==2 : return 1
+
+    return fibo(n-1)+fibo(n-2)
+    
+    
+print("**피보나치수열")
+print(fibo(n))
+```
+
+시간 복잡도: O(2^N)
 
 
 
