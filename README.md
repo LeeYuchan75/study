@@ -1,3 +1,7 @@
-공부 방법 
+# STUDY
 
-깃허브에 내용 필기 -> 깃허브로 내용 요약하기 전체적인 구조 형성 
+## operating system 
+
+[os 1장 바로가기](.operating%20system/os%201장.md)
+
+
