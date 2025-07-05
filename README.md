@@ -14,4 +14,6 @@
 
 - [POSIX](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%202장.md#posix-portable-operating-system-interface)
 
-- [MicroKernel](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%202장.md#microkernel)
+- [Process와 Program 차이](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%203-1장.md#process--program)
+
+- [Context Switching](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%203-1장.md#context-switch)
