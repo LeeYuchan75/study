@@ -24,15 +24,7 @@
 
 - [Thread 개념](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-1장.md#thread스레드)
 
-- [Multithread 장점](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-1장.md#multithread-장점)
-
 - [멀티스레딩 모델 3가지](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-2장.md#멀티스레딩-모델-3가지)
-
-- [Thread Pool](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-2장.md#thread-pool)
-
-<br/>
-
-위부터 하나로 통일 (아래는 5-1장부터 진행)
 
 - [Preemptive vs Non-Preemptive Scheduling](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%205-1장.md#preemptive--non-preemptive-scheduling)
 
