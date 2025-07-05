@@ -32,12 +32,15 @@
 
 <br/>
 
-위부터 하나로 통일 
+위부터 하나로 통일 (아래는 5-1장부터 진행)
 
 - [Preemptive vs Non-Preemptive Scheduling](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%205-1장.md#preemptive--non-preemptive-scheduling)
 
+- [Round-Robin Scheduling](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%205-2장.md#round-robin-scheduling-rr)
 
+- [Race Condition](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%206,7장.md#race-condition)
 
+- [Deadlock 개념과 발생 조건](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%208-1주차.md#deadlock교착-상태)
 
 
 
