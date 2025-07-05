@@ -29,3 +29,31 @@
 - [멀티스레딩 모델 3가지](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-2장.md#멀티스레딩-모델-3가지)
 
 - [Thread Pool](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-2장.md#thread-pool)
+
+<br/>
+
+위부터 하나로 통일 
+
+- [Preemptive vs Non-Preemptive Scheduling](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%205-1장.md#preemptive--non-preemptive-scheduling)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
