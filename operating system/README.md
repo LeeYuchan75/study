@@ -1,6 +1,6 @@
 ### 123 
 
-- [os의 정의](os 1장.md#os의-정의)
+- [os의 정의](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%201장.md#os의-정의)
 - [System call interface](os 2장.md#system-call-interface)
 - [Context switch](os 3-1장.md#context-switch)
 - [Mail Box](os 3-2장.md#mail-box)
