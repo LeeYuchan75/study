@@ -1,4 +1,4 @@
-### 123 
+## 🖥️ operating system 
 
 - [os의 정의](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%201%EC%9E%A5.md#os의-정의)
 
