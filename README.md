@@ -38,8 +38,9 @@
 
 - [디스크 구조와 SSD 특징](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%2012주차.md#디스크-구조에-대한-기본-개념)
 
+<br/>
 
-
+## 🧠 machine learning
 
 
 
