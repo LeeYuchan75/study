@@ -3,11 +3,8 @@
 ## 🖥️ operating system 
 
 - [os의 정의](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%201%EC%9E%A5.md#os의-정의)
-
 - [System call interface](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%202%EC%9E%A5.md#system-call-interface)
-
 - [Context switch](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%203-1%EC%9E%A5.md#context-switch)
-
 - [Mail Box](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%203-2%EC%9E%A5.md#mail-box)
 
 - [Thread 개념](https://github.com/LeeYuchan75/study/blob/main/operating%20system/os%204-1장.md#thread스레드)
