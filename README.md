@@ -18,19 +18,19 @@
 
 ## 🧠 Machine Learning
 
-- [🧠 Machine Learning](https://github.com/LeeYuchan75/study/tree/main/machine-learning)
+- [Machine Learning folder](https://github.com/LeeYuchan75/study/tree/main/machine-learning)
 
 <br/>
 
 ## 🗃️ Database
 
-- [🗃️ Database](https://github.com/LeeYuchan75/study/tree/main/database)
+- [Database folder](https://github.com/LeeYuchan75/study/tree/main/database)
 
 <br/>
 
 ## ⚙️ Algorithm
 
-- [⚙️ Algorithm](https://github.com/LeeYuchan75/study/tree/main/algorithm)
+- [Algorithm folder](https://github.com/LeeYuchan75/study/tree/main/algorithm)
 
 
 
