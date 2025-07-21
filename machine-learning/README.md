@@ -1,12 +1,12 @@
 ## 🧠 machine learning
 
 - [Machine Learning (ML)](https://github.com/LeeYuchan75/study/blob/main/machine-learning/ML%2001%EC%A3%BC%EC%B0%A8.md#machine-learning-ml)
-
 - [ML과 DL 차이](https://github.com/LeeYuchan75/study/blob/main/machine-learning/ML%2002%EC%A3%BC%EC%B0%A8.md#ml%EA%B3%BC-dl-%EC%B0%A8%EC%9D%B4)
-
 - [Bias-Variance](https://github.com/LeeYuchan75/study/blob/main/machine-learning/ML%2003%EC%A3%BC%EC%B0%A8.md#bias-variance)
-
 - [Classification](https://github.com/LeeYuchan75/study/blob/main/machine-learning/ML%2004%EC%A3%BC%EC%B0%A8.md#classification)
+
+<br/>
+
 
 - [KNN(K-Nearest Neighbor)](https://github.com/LeeYuchan75/study/blob/main/machine-learning/ML%2005%EC%A3%BC%EC%B0%A8.md#knn-k-nearest-neighbor)
 
