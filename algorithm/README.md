@@ -34,7 +34,7 @@
 
 - [NP 완비 문제](https://github.com/LeeYuchan75/study/blob/main/algorithm/algorithm%20study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2015%EC%A3%BC%EC%B0%A8.md#np-%EC%99%84%EB%B9%84)
 
-
+- [상태공간트리](https://github.com/LeeYuchan75/study/blob/main/algorithm/algorithm%20study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2016%EC%A3%BC%EC%B0%A8.md#%EC%83%81%ED%83%9C%EA%B3%B5%EA%B0%84%ED%8A%B8%EB%A6%AC)
 
 
 
