@@ -6,6 +6,8 @@
 
 ### Click on any item to view the detailed content.
 
+<br/>
+
 # STUDY
 
 ## 🖥️ operating system 
