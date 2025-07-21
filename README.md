@@ -12,7 +12,7 @@
 
 ## 🖥️ operating system 
 
-- [Go to operating system folder](https://github.com/LeeYuchan75/study/tree/main/operating%20system)
+- [operating system folder](https://github.com/LeeYuchan75/study/tree/main/operating%20system)
 
 <br/>
 
