@@ -334,8 +334,7 @@ ISR로 가기 전에 해당 위치의 주소를 저장해야함
 
 <br/>
 
-![Image](https://github.com/user-attachments/assets/99e4d040-5f25-44e9-ba3c-a1cc293feb21)
-
+![System Resources](../../images/operating%20system%20images/interrupt_sample.png)
 <br/>
 
 ## Device controller, Device driver
