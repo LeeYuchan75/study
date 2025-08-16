@@ -544,7 +544,7 @@ User Mode (1) → 제한된 명령만 실행 가능 (안전성 확보)
 
 유저 모드에서 특권 명령을 실행하려 하면, 하드웨어가 이를 차단하고 실행되지 않음. 이때 **예외(Trap) 또는 인터럽트(Interrupt)** 가 발생하여 운영체제가 개입하고, 이렇게 함으로써 사용자가 임의로 시스템을 조작하는 것을 방지함
 
-![System Resources](../../images/operating%20system%20images/mode bit.png)
+![System Resources](../../images/operating%20system%20images/mode%20bit.png)
 
 
 
