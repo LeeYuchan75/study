@@ -273,7 +273,8 @@ Virtual machine : 컴퓨터 하드웨어를 소프트웨어로 추상화하여, 
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/90fcf260-f76c-48cd-9702-93c8a9f3f2c7)
+![System Resources](../../images/operating%20system%20images/virtual_machine.png)
+
 
 계층 구조로 보면 맨 아래부터 h/w -> virtualization layer -> virtual machine -> Linux, Windows, Solaris
 
