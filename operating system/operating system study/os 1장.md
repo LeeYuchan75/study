@@ -1,4 +1,4 @@
-## 운영체제론(OS) 1장
+<img width="931" height="610" alt="image" src="https://github.com/user-attachments/assets/552f86c8-3bcd-41b5-b744-53878e9ac8b3" />## 운영체제론(OS) 1장
 
 ## os의 정의 
 
@@ -450,8 +450,7 @@ master processor 는 전체 시스템의 메모리 맵에 접근할 수 있고, 
 
 단점: 프로그래밍이 복잡해짐 (로컬/원격 메모리를 고려해야 함). 캐시 일관성 문제 발생 가능.
 
-
-![Image](https://github.com/user-attachments/assets/eb15fb4f-74b0-4542-966f-59649a133e4c)
+![System Resources](../../images/operating%20system%20images/UMA_NUMA.png)
 
 <br/>
 
