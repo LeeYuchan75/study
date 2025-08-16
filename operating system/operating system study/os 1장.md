@@ -1,4 +1,4 @@
-<img width="931" height="610" alt="image" src="https://github.com/user-attachments/assets/552f86c8-3bcd-41b5-b744-53878e9ac8b3" />## 운영체제론(OS) 1장
+## 운영체제론(OS) 1장
 
 ## os의 정의 
 
