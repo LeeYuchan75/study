@@ -105,7 +105,7 @@ CPU는 레지스터에서 데이터를 즉시 읽고 쓸 수 있음
 
 ## 구조 설명
 
-![image](https://github.com/user-attachments/assets/29f6c55c-46a3-45a2-88ea-c6038ff54528)
+![System Resources](../../images/operating%20system%20images/System_call_interface_구조.png)
 
 <br/>
 
