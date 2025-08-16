@@ -74,7 +74,7 @@ ex) sys_exit(), sys_fork()
 
 **즉, 고유 번호로 할당된 테이블을 이용해서 쉽고 간단하게 호출하기 위해 사용**
 
-![image](https://github.com/user-attachments/assets/c38beaec-7f44-4468-bdbf-398ef919a43f)
+![System Resources](../../images/operating%20system%20images/system_call_interface.jpg)
 
 <br/>
 
