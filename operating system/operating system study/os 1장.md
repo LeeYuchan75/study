@@ -155,7 +155,7 @@ kernel은 os에서 핵심적인 부분으로 하드웨어 관리 및 시스템 �
 
 ## 모든 시스템은 아래와 같이 구성되어 있다 
 
-![System Resources](../images/operating%20system%20images/IMG_3505.jpg) 
+![System Resources](../images/operating%20system%20images/IMG_3505.jpg)
 
 하나 이상의 CPU와 장치 컨트롤러가 공통 버스를 통해 연결되어 공유 메모리에 액세스할 수 있다.
 
